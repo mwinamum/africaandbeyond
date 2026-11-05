@@ -1,0 +1,170 @@
+{
+  "zh-CN": {
+    "ui": {
+      "Send my enquiry ↗": "发送询价 ↗",
+      "Phone with country code": "电话号码（含国家区号）"
+    },
+    "tours": {
+      "English speaking guide": "英语导游",
+      "Balloon safari (optional extra)": "热气球体验（需额外付费）",
+      "Breakfast, Lunch": "早餐、午餐",
+      "Crucial acclimatisation day. Ascend to Lava Tower (4,630m) then descend to Barranco.": "这是适应海拔的重要一天。上升至海拔4,630米的熔岩塔（Lava Tower），然后下降至巴兰科（Barranco）。",
+      "Hike to the Sanje waterfalls with a local guide.": "在当地导游的带领下徒步前往桑杰瀑布。"
+    }
+  },
+  "zh-TW": {
+    "ui": {
+      "Send my enquiry ↗": "傳送詢價 ↗",
+      "Phone with country code": "電話號碼（含國家區碼）"
+    },
+    "tours": {
+      "English speaking guide": "英語導遊",
+      "Balloon safari (optional extra)": "熱氣球體驗（需額外付費）",
+      "Breakfast, Lunch": "早餐、午餐",
+      "Crucial acclimatisation day. Ascend to Lava Tower (4,630m) then descend to Barranco.": "這是適應海拔的重要一天。上升至海拔4,630米的熔岩塔（Lava Tower），然後下降至巴蘭科（Barranco）。",
+      "Hike to the Sanje waterfalls with a local guide.": "在當地導遊的帶領下徒步前往桑傑瀑布。"
+    }
+  },
+  "ar": {
+    "ui": {
+      "Send my enquiry ↗": "إرسال الاستفسار ↗",
+      "Phone with country code": "رقم الهاتف مع رمز الدولة",
+      "View itinerary ↗": "عرض برنامج الرحلة ↗"
+    },
+    "tours": {
+      "English speaking guide": "مرشد سياحي يتحدث الإنجليزية"
+    }
+  },
+  "ja": {
+    "ui": {
+      "Send my enquiry ↗": "問い合わせを送信 ↗",
+      "Phone with country code": "国番号付き電話番号"
+    },
+    "tours": {
+      "English speaking guide": "英語を話すガイド"
+    }
+  },
+  "ko": {
+    "ui": {
+      "Send my enquiry ↗": "문의 보내기 ↗",
+      "Phone with country code": "국가번호를 포함한 전화번호",
+      "View itinerary ↗": "여행 일정 보기 ↗"
+    },
+    "tours": {
+      "English speaking guide": "영어를 구사하는 가이드"
+    }
+  },
+  "hi": {
+    "ui": {
+      "Send my enquiry ↗": "पूछताछ भेजें ↗",
+      "Phone with country code": "देश कोड सहित फ़ोन नंबर",
+      "View itinerary ↗": "यात्रा कार्यक्रम देखें ↗"
+    },
+    "tours": {
+      "English speaking guide": "अंग्रेज़ी बोलने वाला गाइड"
+    }
+  },
+  "bn": {
+    "ui": {
+      "Send my enquiry ↗": "অনুসন্ধান পাঠান ↗",
+      "Phone with country code": "দেশের কোডসহ ফোন নম্বর",
+      "View itinerary ↗": "ভ্রমণসূচি দেখুন ↗"
+    },
+    "tours": {
+      "English speaking guide": "ইংরেজিভাষী গাইড"
+    }
+  },
+  "id": {
+    "ui": {
+      "Send my enquiry ↗": "Kirim pertanyaan ↗",
+      "Phone with country code": "Nomor telepon dengan kode negara"
+    },
+    "tours": {
+      "English speaking guide": "Pemandu berbahasa Inggris"
+    }
+  },
+  "ms": {
+    "ui": {
+      "Send my enquiry ↗": "Hantar pertanyaan ↗",
+      "Phone with country code": "Nombor telefon dengan kod negara",
+      "Try Serengeti or Kilimanjaro": "Cuba Serengeti atau Kilimanjaro",
+      "View itinerary ↗": "Lihat jadual perjalanan ↗"
+    },
+    "tours": {
+      "English speaking guide": "Pemandu berbahasa Inggeris",
+      "Remote safari in Tanzania's largest and most rugged national park.": "Safari di kawasan terpencil dalam taman negara terbesar dan paling lasak di Tanzania.",
+      "Summit Uhuru Peak at 5,895m": "Mencapai Puncak Uhuru pada ketinggian 5,895 meter"
+    }
+  },
+  "th": {
+    "ui": {
+      "Send my enquiry ↗": "ส่งคำสอบถาม ↗",
+      "Phone with country code": "หมายเลขโทรศัพท์พร้อมรหัสประเทศ"
+    },
+    "tours": {
+      "English speaking guide": "มัคคุเทศก์ที่พูดภาษาอังกฤษ"
+    }
+  },
+  "vi": {
+    "ui": {
+      "Send my enquiry ↗": "Gửi yêu cầu ↗",
+      "Phone with country code": "Số điện thoại có mã quốc gia",
+      "View itinerary ↗": "Xem lịch trình ↗"
+    },
+    "tours": {
+      "English speaking guide": "Hướng dẫn viên nói tiếng Anh"
+    }
+  },
+  "ur": {
+    "ui": {
+      "Send my enquiry ↗": "استفسار بھیجیں ↗",
+      "Phone with country code": "ملکی کوڈ کے ساتھ فون نمبر",
+      "View itinerary ↗": "سفر کا شیڈول دیکھیں ↗"
+    },
+    "tours": {
+      "English speaking guide": "انگریزی بولنے والا ٹور گائیڈ"
+    }
+  },
+  "az": {
+    "ui": {
+      "View itinerary ↗": "Səyahət planına bax ↗"
+    },
+    "tours": {}
+  },
+  "eo": {
+    "ui": {
+      "View itinerary ↗": "Vidi la vojaĝplanon ↗"
+    },
+    "tours": {}
+  },
+  "fa": {
+    "ui": {
+      "View itinerary ↗": "مشاهده برنامه سفر ↗"
+    },
+    "tours": {}
+  },
+  "ga": {
+    "ui": {
+      "View itinerary ↗": "Féach ar an gclár taistil ↗"
+    },
+    "tours": {}
+  },
+  "iw": {
+    "ui": {
+      "View itinerary ↗": "הצגת מסלול הטיול ↗"
+    },
+    "tours": {}
+  },
+  "tl": {
+    "ui": {
+      "View itinerary ↗": "Tingnan ang itineraryo ↗"
+    },
+    "tours": {}
+  },
+  "tr": {
+    "ui": {
+      "View itinerary ↗": "Gezi programını görüntüle ↗"
+    },
+    "tours": {}
+  }
+}

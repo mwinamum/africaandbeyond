@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+# Demo pages carry noindex in HTTP headers and HTML.
+# Crawling must remain allowed for search engines to read noindex.

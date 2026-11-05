@@ -1,0 +1,13 @@
+work/
+.venv/
+venv/
+node_modules/
+__pycache__/
+*.py[cod]
+.env
+.env.*
+submission-ledger.json
+submission-ledger.json.tmp
+*.log
+.DS_Store
+Thumbs.db
